@@ -1,5 +1,5 @@
 # Use an official Python runtime as a parent image
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 
 # Set the working directory
 WORKDIR /home/vagrant
